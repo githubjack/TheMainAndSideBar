@@ -1,5 +1,5 @@
 {
-  "name": "the-settings-page",
+  "name": "the-profile-panel",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -7,6 +7,7 @@
   "dependencies": {
     "@bedrock-layout/appboundary": "2.0.5",
     "@bedrock-layout/center": "2.0.5",
+    "@bedrock-layout/columns": "2.0.5",
     "@bedrock-layout/css-reset": "1.0.11",
     "@bedrock-layout/inline": "2.0.7",
     "@bedrock-layout/padbox": "2.0.7",
